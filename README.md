@@ -8,7 +8,7 @@ Most of my work lives in private repos, so this profile looks quieter than it is
 
 ## What I'm building now
 
-### [LinkRail Analytics](https://linkrail.app)
+### LinkRail Analytics
 A URL shortening and visitor analytics platform, built solo and running in production.
 
 - **Custom PHP 8.5 MVC framework written from scratch** - router, query builder, model layer, typed view/component system, and code generators.

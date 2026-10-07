@@ -22,7 +22,7 @@ A URL shortening and visitor analytics platform, built solo and running in produ
 ### Shop Counter - In Development - Demo Available
 Team-based SaaS for machine shop operations - machines, parts inventory, maintenance history, and analytics.
 
-- Laravel 13 / PHP 8.5, MariaDB, Redis-backed queues
+- Laravel 13 / PHP 8.5, PostgreSQL, Redis-backed queues
 - Deployed at Laravel Forge
 - Service-layer architecture with typed DTOs and enums; thin controllers
 - Typed PHP view and component layer, Tailwind CSS v4, Vite
